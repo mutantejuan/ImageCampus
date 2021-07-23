@@ -1,0 +1,24 @@
+{
+"GrupoAnimals": [
+			{
+			"Nombre": "Pulpo",
+			"Image": "pulpo.jpg", 
+			"Patas": 8
+			},
+			{
+			"Nombre": "Pinguino",
+			"Image": "pinguino.jpg",
+			"Patas": 2
+			},
+			{
+			"Nombre": "Camaleon",
+			"Image": "camaleon.jpg",
+			"Patas": 4
+			},
+			{
+			"Nombre": "Caballito de Mar",
+			"Image": "caballitodemar.jpg",
+			"Patas": 0
+			}
+	]
+}
