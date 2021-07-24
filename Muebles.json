@@ -1,0 +1,14 @@
+{
+  "Muebles":[
+    {
+      "Name": "Tullsta",
+      "Thumbnail": "Tullsta.jpg",
+      "AssetBundle": "Tullsta.jim"
+    },
+    {
+      "Name": "Baccaro",
+      "Thumbnail": "Baccaro.jpg",
+      "AssetBundle": "Baccaro.jim"
+    }
+    ]
+}
