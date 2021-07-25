@@ -2,13 +2,13 @@
   "Muebles":[
     {
       "Name": "Carlton",
-      "Thumbnail": "Sottsass Ettore Carlton Bookcase.jpg",
+      "Thumbnail": "item-00.jpg",
       "AssetBundle": "Carlton.jim"
     },
     {
-      "Name": "Baccaro",
-      "Thumbnail": "Baccaro.jpg",
-      "AssetBundle": "Baccaro.jim"
+      "Name": "D'antibes",
+      "Thumbnail": "item-01.jpg",
+      "AssetBundle": "D'antibes.jim"
     }
     ]
 }
