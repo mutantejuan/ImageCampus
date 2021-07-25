@@ -3,12 +3,14 @@
     {
       "Name": "Carlton",
       "Thumbnail": "item-00.jpg",
-      "AssetBundle": "Carlton.jim"
+      "AssetBundle": "Carlton.jim",
+      "IDItem": 0
     },
     {
       "Name": "D'antibes",
       "Thumbnail": "item-01.jpg",
-      "AssetBundle": "D'antibes.jim"
+      "AssetBundle": "D'antibes.jim",
+      "IDItem": 1
     }
     ]
 }
