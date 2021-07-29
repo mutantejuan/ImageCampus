@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3148675232
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 91a10effa10c41dc328037985fa898c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4a51026d08bf40f7f6eea65537d2ffbc
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/dantibescabinetsowden.prefab
+Dependencies: []
