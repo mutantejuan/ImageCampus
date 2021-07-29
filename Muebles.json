@@ -3,7 +3,7 @@
     {
       "Name": "Carlton",
       "Thumbnail": "item-00.jpg",
-      "AssetBundle": "carlton.jim", //puede haber mas de una categoria (x ej android asset bundle y ios asset bundle
+      "AssetBundle": "carlton.jim",
       "AssetBundleName": "carltonbookcasesottsass",
       "IDItem": 0
     },
