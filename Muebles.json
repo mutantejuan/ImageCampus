@@ -3,13 +3,13 @@
     {
       "Name": "Carlton",
       "Thumbnail": "item-00.jpg",
-      "AssetBundle": "Carlton.jim",
+      "AssetBundle": "carlton.jim", //puede haber mas de una categoria (x ej android asset bundle y ios asset bundle
       "IDItem": 0
     },
     {
       "Name": "D'Antibes",
       "Thumbnail": "item-01.jpg",
-      "AssetBundle": "D'antibes.jim",
+      "AssetBundle": "dantibes.jim",
       "IDItem": 1
     }
     ]
